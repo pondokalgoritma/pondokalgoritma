@@ -1,8 +1,7 @@
-# Welcome to Pondok Algoritma
+# Pondok Algoritma
 
 We focus on **education** and **software development**.  
-🌱 Focus Areas: **Data Science**, **Web Development**, and **Automation**.  
-🚀 Discover our projects and training materials in the public repositories.
+Discover our projects and training materials in the public repositories.
 
 ---
 
